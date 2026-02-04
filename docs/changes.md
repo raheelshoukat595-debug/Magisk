@@ -1,5 +1,5 @@
 # Magisk Changelog
-
+### v30.6 (2026.02.04)
 ### v30.6 (2025.12.1)
 
 - [MagiskInit] Revert a change that could result in bootloops
